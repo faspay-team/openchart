@@ -1,0 +1,47 @@
+.wf-active p.text {
+	font-family: 'Calibri', serif;
+	font-size: 16px;
+	text-align: justify;
+	color:#666666;
+	border: 1px solid #CCCCCC;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	padding: 20px
+}
+
+.wf-active h2 {
+	font-family: 'Lobster', serif;
+	font-size: 20px;
+	color: #666666
+}
+
+.wf-active h1 {
+	font-family: 'Lobster', serif;
+	font-size: 45px;
+	color: #006699;
+	margin-bottom: 10px;
+}
+
+div.body {
+	max-width: 850px;
+	margin: auto;
+	background-color: #FFFFFF;
+	padding: 30px 50px 0px 50px;
+	text-align: left;
+	height: 60%;
+}
+p.bugs {
+	font: 12px/1.55 Arial,Helvetica,sans-serif;
+	text-align: center;
+}
+
+p.otherdata {
+	font-family: 'Calibri', serif;
+	font-size: 15px;
+	color: #999999;
+	margin-bottom: 20px
+}
+
+.otherdata strong {
+	color: #000000
+}
